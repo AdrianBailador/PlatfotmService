@@ -1,0 +1,6 @@
+@PlatfotmService_HostAddress = http://localhost:5073
+
+GET {{PlatfotmService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
